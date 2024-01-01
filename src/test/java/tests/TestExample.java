@@ -15,7 +15,6 @@ public class TestExample {
     WebDriver driver;
     private static final Logger logger = LogManager.getLogger(TestExample.class);
 
-
     @BeforeClass
     public void setUp() {
         WebDriverManager.chromedriver().setup();
