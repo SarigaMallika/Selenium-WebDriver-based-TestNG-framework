@@ -4,6 +4,7 @@
 		<parameter name="searchQuery" value="TestNG"/>
         <classes>
             <class name="tests.TestExample"/>
+            <class name="tests.webScrapping"/>
         </classes>
     </test>
 </suite>
