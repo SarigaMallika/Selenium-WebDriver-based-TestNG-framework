@@ -26,13 +26,13 @@ mvn clean install
 3. Run tests:
 mvn test
 
-##Usage
-Adjust the TestNG XML file (testng.xml) to customize test execution parameters.
+## Usage
+- Adjust the TestNG XML file (testng.xml) to customize test execution parameters.
 
-Modify the TestExample class and associated methods to add your test logic.
+- Modify the TestExample class and associated methods to add your test logic.
 
-Explore and extend the framework based on your project requirements.
+- Explore and extend the framework based on your project requirements.
 
-##Project Structure
-src/test/java: Contains test classes and related Java files.
-src/test/resources: Includes configuration files, such as TestNG XML and Log4j configuration.
+## Project Structure
+- src/test/java: Contains test classes and related Java files.
+- src/test/resources: Includes configuration files, such as TestNG XML and Log4j configuration.
