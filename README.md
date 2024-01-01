@@ -19,7 +19,7 @@ This repository contains a basic TestNG framework for Selenium WebDriver, design
 ## Setup
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/selenium-testng-framework.git
+   git clone "repo url"
    cd selenium-testng-framework
 2. Install dependencies:
 mvn clean install
