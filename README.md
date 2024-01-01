@@ -9,6 +9,7 @@ This repository contains a basic TestNG framework for Selenium WebDriver, design
 - **Data-Driven Testing:** Leverage TestNG's `@DataProvider` to perform data-driven testing with various input values.
 
 - **Logging:** Implement logging using Log4j to capture and analyze test execution details.
+- **Web Scraping with Selenium and JSoup:** Prints all links (<a> elements with an href attribute) found on the webpage.
 
 ## Prerequisites
 
